@@ -1,4 +1,3 @@
-//Loux14.
 
 
 import random
